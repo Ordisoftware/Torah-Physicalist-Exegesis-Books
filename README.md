@@ -28,7 +28,7 @@ Les lettres du vivant et les cycles du temps
 
 [Le problème religieux v1.pdf](Le%20problème%20religieux%20I/Le%20problème%20religieux%20v1.pdf)
 
-[Le problème religieux v2 ébauche audio](Le%20problème%20religieux%20II%20MP3)
+[Version audio de l'ébauche de la v2](Audio)
 
 ## L'alphabet hébreu
 
