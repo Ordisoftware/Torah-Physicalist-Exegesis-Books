@@ -6,7 +6,7 @@
 
 ![](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_great_britain.png)&nbsp;&nbsp;French libre books about a physicalist exegesis of the Torah and the Hebrew Bible, and a little about the Sutras, the Gospel and the Quran.
 
-![](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_france.png)&nbsp;&nbsp;Livres libres français sur une exégèse physicaliste de la Torah et de la Bible hébraïque, et un peu sur les soutras, l'Évangile et le Coran.
+![](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_france.png)&nbsp;&nbsp;Livres libres en français sur une exégèse physicaliste de la Torah et de la Bible hébraïque, et un peu sur les Sutras, les Évangiles et le Quran.
 
 ## Théorie de santé-aide-justice
 
