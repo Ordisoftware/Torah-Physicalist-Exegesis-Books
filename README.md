@@ -9,25 +9,29 @@
 ![](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_france.png)&nbsp;&nbsp;Livres libres en français sur une exégèse physicaliste de la Torah et de la Bible hébraïque, et un peu sur les Sutras, les Évangiles et le Quran.
 
 ## Théorie de santé-aide-justice
-<small>*Rédigé en 2015 - Ajout de la section sur la neuroatypicité en 2019*</small>
+<sub><sup>*Rédigé en 2015 - Ajout de la section sur la neuroatypicité en 2019*</sup></sub>
 
 **Étude du système d'information "Protection de la vie humaine"**<br>
 
 [Théorie de santé-aide-justice.pdf](Théorie%20de%20santé-aide-justice.pdf)
 
 ## Le problème religieux
-<small>*Première édition imprimée 2012*<br>
-*Deuxième édition audio ébauche 2019*</small>
+<sub><sup>*Première édition imprimée 2012*<br>
+*Deuxième édition audio ébauche 2019*</sup></sub>
 
 **Traité d'occultisme physicaliste abrahamique**<br>
 Structures et fonctions de l'univers et de la vie<br>
 Les lettres du vivant et les cycles du temps
 
 [Le problème religieux v1.pdf](Le%20problème%20religieux%20I/Le%20problème%20religieux%20v1.pdf)<br>
-[Version audio de l'ébauche de la v2](Audio)
+
+[Version audio de l'ébauche de la v2](Audio)<br>
+<sub><sup>*La durée totale des exposés est de 19h32 pour 460 Mo en MP3 56k*</sup></sub>
+
+[Version vidéo-audio YouTube de l'ébauche de la v2](https://www.youtube.com/playlist?list=PLSn7yTHwEx-DL6u9qWpRtF1vEAEVxe1Hk)<br>
 
 ## L'alphabet hébreu
-<small>*Première édition imprimée 2019*</small>
+<sub><sup>*Première édition imprimée 2019*</sup></sub>
 
 **Les lettres de l'existence humaine**<br>
 La destinée du Youd de l'Alef au Tav<br>
@@ -36,7 +40,7 @@ La formation du couple
 [L'alphabet hébreu v1.pdf](L'alphabet%20hébreu%20I/L'alphabet%20hébreu%20v1.pdf)
 
 ## L'alliance
-<small>*A paraitre*</small>
+<sub><sup>*A paraitre*</sup></sub>
 
 **Le mariage selon la Torah**<br>
 Le pouvoir de Dieu<br>
@@ -45,7 +49,7 @@ Le pouvoir de Dieu<br>
 [L'alliance v1 - Extrait - Evangile YHVH.pdf](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Evangile%20YHVH.pdf)
 
 ## Les séfirot
-<small>*A paraitre*</small>
+<sub><sup>*A paraitre*</sup></sub>
 
 **Les dix dynamiques de la sortie de Mitsraïm**<br>
 La libération des illusions et des mensonges
