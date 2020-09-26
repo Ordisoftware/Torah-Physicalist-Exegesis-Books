@@ -8,6 +8,17 @@
 
 ![](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_france.png)&nbsp;&nbsp;Livres libres en français sur une exégèse physicaliste de la Torah et de la Bible hébraïque, et un peu sur les Sutras, les Évangiles et le Quran.
 
+## Archive du site web Asher 'Haïm HaLevi au 25/09/2020
+<sub><sup>*Copyright 2011-2020 Olivier Rogier dit Asher 'Haïm HaLevi*</sup></sub>
+
+**Lanceur d'alerte partisan de la nationalisation du système de santé-aide-justice prévu aux articles  9 à 11 du Préambule de la Constitution française et 25 de la Déclaration Universelle des Droits des Humains**
+
+- Proposition logique avec théorie, extrait des lois humaines et annuaire administratif.
+- Sections descriptives relatives aux ouvrages.
+- Au sujet de l'auteur et témoignage en tant que victime d'un crime d'État France & Nations-Unies.
+
+[asherhaimhalevi@sites.google.com.zip](asherhaimhalevi%40sites.google.com.zip)
+
 ## Théorie de santé-aide-justice
 <sub><sup>*Rédigé en 2015 - Ajout de la section sur la neuroatypicité en 2019*</sup></sub>
 
