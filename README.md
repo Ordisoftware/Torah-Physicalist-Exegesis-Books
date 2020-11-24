@@ -54,7 +54,7 @@ La formation du couple
 
 <sub>*Première édition imprimée 2019*</sub>
 
-[PDF L'alphabet hébreu version 1.pdf](L'alphabet%20hébreu%20I/L'alphabet%20hébreu%20v1.pdf)
+[PDF L'alphabet hébreu version 1](L'alphabet%20hébreu%20I/L'alphabet%20hébreu%20v1.pdf)
 
 ### 3. L'alliance
 
