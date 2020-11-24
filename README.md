@@ -8,7 +8,7 @@
 
 ![](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_france.png)&nbsp;&nbsp;Livres libres en français sur une exégèse physicaliste de la Torah et de la Bible hébraïque, et un peu sur les Sutras, les Évangiles et le Quran.
 
-## Archive du site web Asher 'Haïm HaLevi au 25/09/2020
+## Archive du site web Asher 'Haïm HaLevi au 06/11/2020
 <sup>*Copyright 2011-2020 Olivier Rogier dit Asher 'Haïm HaLevi*</sup>
 
 **Lanceur d'alerte partisan de la nationalisation du système de santé-aide-justice prévu aux articles  9 à 11 du Préambule de la Constitution française et 25 de la Déclaration Universelle des Droits des Humains**
