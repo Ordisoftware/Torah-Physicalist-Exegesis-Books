@@ -34,9 +34,9 @@ Les lettres du vivant et les cycles du temps
 
 [PDF Le problème religieux version 1](Le%20problème%20religieux%20I/Le%20problème%20religieux%20v1.pdf)<br>
 
-[MP3 Ébauche de la version 2](Audio)<br>
+[MP3 Le problème religieux version 2](Audio)<br>
 
-[YouTube Ébauche de la version 2](https://www.youtube.com/playlist?list=PLSn7yTHwEx-DL6u9qWpRtF1vEAEVxe1Hk)<br>
+[YouTube Le problème religieux version 2](https://www.youtube.com/playlist?list=PLSn7yTHwEx-DL6u9qWpRtF1vEAEVxe1Hk)<br>
 
 <sub>*La durée totale des exposés est de 19h32 pour 460 Mo en MP3 56k*</sub>
 
