@@ -1,4 +1,4 @@
-# Torah Physicalist Exegesis Books<br>Livres d'Exégèse Physicaliste de la Torah
+# Torah Physicalist Exegesis Books<br>Livres d'ExÃ©gÃ¨se Physicaliste de la Torah
 
 >Licensed under the terms of the [Creative Commons BY-NC-ND 4.0 Int](LICENSE)<br/>
 >[Project Website](https://sites.google.com/site/asherhaimhalevi)<br/>
@@ -6,63 +6,65 @@
 
 ![](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_great_britain.png)&nbsp;&nbsp;French libre books about a physicalist exegesis of the Torah and the Hebrew Bible, and a little about the Sutras, the Gospel and the Quran.
 
-![](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_france.png)&nbsp;&nbsp;Livres libres en français sur une exégèse physicaliste de la Torah et de la Bible hébraïque, et un peu sur les Sutras, les Évangiles et le Quran.
+![](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_france.png)&nbsp;&nbsp;Livres libres en franÃ§ais sur une exÃ©gÃ¨se physicaliste de la Torah et de la Bible hÃ©braÃ¯que, et un peu sur les Sutras, les Ã‰vangiles et le Quran.
 
-## Archive du site web Asher 'Haïm HaLevi au 06/11/2020
-<sup>*Copyright 2011-2020 Olivier Rogier dit Asher 'Haïm HaLevi*</sup>
+## Archive du site web Asher 'HaÃ¯m HaLevi au 06/11/2020
 
-**Lanceur d'alerte partisan de la nationalisation du système de santé-aide-justice prévu aux articles  9 à 11 du Préambule de la Constitution française et 25 de la Déclaration Universelle des Droits des Humains**
+*Lanceur d'alerte partisan de la nationalisation du systÃ¨me de santÃ©-aide-justice prÃ©vu aux articles  9 Ã  11 du PrÃ©ambule de la Constitution franÃ§aise et 25 de la DÃ©claration Universelle des Droits des Humains*
 
-- Proposition logique avec théorie, extrait des lois humaines et annuaire administratif.
+- Proposition logique avec extrait de lois humaines et un annuaire administratif non exhaustif.
+- ThÃ©orie de santÃ©-aide-justice ou Ã©tude du systÃ¨me d'information "Protection de la vie humaine".
+- Au sujet de l'auteur et tÃ©moignage en tant que victime d'un crime d'Ã‰tat France et Nations-Unies.
 - Sections descriptives relatives aux ouvrages.
-- Au sujet de l'auteur et témoignage en tant que victime d'un crime d'État France & Nations-Unies.
 
-[asherhaimhalevi@sites.google.com.zip](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis-Books/raw/master/asherhaimhalevi%40sites.google.com.zip)
+[PDF ThÃ©orie de santÃ©-aide-justice](ThÃ©orie%20de%20santÃ©-aide-justice.pdf)
 
-## Théorie de santé-aide-justice
-<sup>*Rédigé en 2015 - Ajout de la section sur la neuroatypicité en 2019*</sup>
+[ZIP sites.google.com/asherhaimhalevi](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis-Books/raw/master/asherhaimhalevi%40sites.google.com.zip)
 
-**Étude du système d'information "Protection de la vie humaine"**<br>
+## Ouvrages
 
-[Théorie de santé-aide-justice.pdf](Théorie%20de%20santé-aide-justice.pdf)
+### 1. Le problÃ¨me religieux
 
-## Le problème religieux
-<sup>*Première édition imprimée 2012*<br>
-*Deuxième édition audio ébauche 2019*</sup>
-
-**Traité d'occultisme physicaliste abrahamique**<br>
+**TraitÃ© d'occultisme physicaliste abrahamique**<br>
 Structures et fonctions de l'univers et de la vie<br>
 Les lettres du vivant et les cycles du temps
 
-[Le problème religieux v1.pdf](Le%20problème%20religieux%20I/Le%20problème%20religieux%20v1.pdf)<br>
+<sub>*PremiÃ¨re Ã©dition imprimÃ©e 2012*<br>
+*DeuxiÃ¨me Ã©dition audio Ã©bauche 2019*</sub>
 
-[Version audio de l'ébauche de la v2](Audio)<br>
-<sup>*La durée totale des exposés est de 19h32 pour 460 Mo en MP3 56k*</sup>
+[PDF Le problÃ¨me religieux version 1](Le%20problÃ¨me%20religieux%20I/Le%20problÃ¨me%20religieux%20v1.pdf)<br>
 
-[Version vidéo-audio YouTube de l'ébauche de la v2](https://www.youtube.com/playlist?list=PLSn7yTHwEx-DL6u9qWpRtF1vEAEVxe1Hk)<br>
+[MP3 Ã‰bauche de la version 2](Audio)<br>
 
-## L'alphabet hébreu
-<sup>*Première édition imprimée 2019*</sup>
+[YouTube Ã‰bauche de la version 2](https://www.youtube.com/playlist?list=PLSn7yTHwEx-DL6u9qWpRtF1vEAEVxe1Hk)<br>
+
+<sub>*La durÃ©e totale des exposÃ©s est de 19h32 pour 460 Mo en MP3 56k*</sub>
+
+### 2. L'alphabet hÃ©breu
 
 **Les lettres de l'existence humaine**<br>
-La destinée du Youd de l'Alef au Tav<br>
+La destinÃ©e du Youd de l'Alef au Tav<br>
 La formation du couple
 
-[L'alphabet hébreu v1.pdf](L'alphabet%20hébreu%20I/L'alphabet%20hébreu%20v1.pdf)
+<sub>*PremiÃ¨re Ã©dition imprimÃ©e 2019*</sub>
 
-## L'alliance
-<sup>*A paraitre*</sup>
+[PDF L'alphabet hÃ©breu version 1.pdf](L'alphabet%20hÃ©breu%20I/L'alphabet%20hÃ©breu%20v1.pdf)
+
+### 3. L'alliance
 
 **Le mariage selon la Torah**<br>
 Le pouvoir de Dieu<br>
 
-[L'alliance v1 - Extrait - Règle 31 de Salomon.pdf](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Règle%2031%20de%20Salomon.pdf)<br>
-[L'alliance v1 - Extrait - Evangile YHVH.pdf](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Evangile%20YHVH.pdf)
+<sub>*A paraitre*</sub>
 
-## Les séfirot
-<sup>*A paraitre*</sup>
+[PDF L'alliance version 1 - Extrait - RÃ¨gle 31 de Salomon](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20RÃ¨gle%2031%20de%20Salomon.pdf)<br>
+[PDF L'alliance version 1 - Extrait - Evangile YHVH](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Evangile%20YHVH.pdf)
 
-**Les dix dynamiques de la sortie de Mitsraïm**<br>
-La libération des illusions et des mensonges
+### 4. Les sÃ©firot
 
-[Les séfirot v1 - Extrait - DAAT.png](Les%20séfirot%20I/Les%20séfirot%20v1%20-%20Extrait%20-%20DAAT.png)
+**Les dix dynamiques de la sortie de MitsraÃ¯m**<br>
+La libÃ©ration des illusions et des mensonges
+
+<sub>*A paraitre*</sub>
+
+[PNG Les sÃ©firot version 1 - Extrait - DAAT](Les%20sÃ©firot%20I/Les%20sÃ©firot%20v1%20-%20Extrait%20-%20DAAT.png)
