@@ -21,6 +21,12 @@
 
 [ZIP sites.google.com/asherhaimhalevi](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis-Books/raw/master/asherhaimhalevi%40sites.google.com.zip)
 
+## Traduction du Tanak
+
+Le décodage des versets à l'aide de dictionnaires, d'enseignements des Rabbins et de données scientifiques officielles sont le fondement des livres.
+
+[Base de données SQLite](Tanak)<br>
+
 ## Ouvrages
 
 ### 1. Le problème religieux
