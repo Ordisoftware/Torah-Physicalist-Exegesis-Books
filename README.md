@@ -9,7 +9,7 @@
 ![](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_france.png)&nbsp;&nbsp;Livres libres en français sur une exégèse physicaliste de la Torah et de la Bible hébraïque, et un peu sur les Sutras, les Évangiles et le Quran.
 
 ## Archive du site web Asher 'Haïm HaLevi au 25/09/2020
-<sub><sup>*Copyright 2011-2020 Olivier Rogier dit Asher 'Haïm HaLevi*</sup></sub>
+<sup>*Copyright 2011-2020 Olivier Rogier dit Asher 'Haïm HaLevi*</sup>
 
 **Lanceur d'alerte partisan de la nationalisation du système de santé-aide-justice prévu aux articles  9 à 11 du Préambule de la Constitution française et 25 de la Déclaration Universelle des Droits des Humains**
 
@@ -20,15 +20,15 @@
 [asherhaimhalevi@sites.google.com.zip](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis-Books/raw/master/asherhaimhalevi%40sites.google.com.zip)
 
 ## Théorie de santé-aide-justice
-<sub><sup>*Rédigé en 2015 - Ajout de la section sur la neuroatypicité en 2019*</sup></sub>
+*Rédigé en 2015 - Ajout de la section sur la neuroatypicité en 2019*</sup>
 
 **Étude du système d'information "Protection de la vie humaine"**<br>
 
 [Théorie de santé-aide-justice.pdf](Théorie%20de%20santé-aide-justice.pdf)
 
 ## Le problème religieux
-<sub><sup>*Première édition imprimée 2012*<br>
-*Deuxième édition audio ébauche 2019*</sup></sub>
+<sup>*Première édition imprimée 2012*<br>
+*Deuxième édition audio ébauche 2019*</sup>
 
 **Traité d'occultisme physicaliste abrahamique**<br>
 Structures et fonctions de l'univers et de la vie<br>
@@ -37,12 +37,12 @@ Les lettres du vivant et les cycles du temps
 [Le problème religieux v1.pdf](Le%20problème%20religieux%20I/Le%20problème%20religieux%20v1.pdf)<br>
 
 [Version audio de l'ébauche de la v2](Audio)<br>
-<sub><sup>*La durée totale des exposés est de 19h32 pour 460 Mo en MP3 56k*</sup></sub>
+<sup>*La durée totale des exposés est de 19h32 pour 460 Mo en MP3 56k*</sup>
 
 [Version vidéo-audio YouTube de l'ébauche de la v2](https://www.youtube.com/playlist?list=PLSn7yTHwEx-DL6u9qWpRtF1vEAEVxe1Hk)<br>
 
 ## L'alphabet hébreu
-<sub><sup>*Première édition imprimée 2019*</sup></sub>
+<sup>*Première édition imprimée 2019*</sup>
 
 **Les lettres de l'existence humaine**<br>
 La destinée du Youd de l'Alef au Tav<br>
@@ -51,7 +51,7 @@ La formation du couple
 [L'alphabet hébreu v1.pdf](L'alphabet%20hébreu%20I/L'alphabet%20hébreu%20v1.pdf)
 
 ## L'alliance
-<sub><sup>*A paraitre*</sup></sub>
+<sup>*A paraitre*</sup>
 
 **Le mariage selon la Torah**<br>
 Le pouvoir de Dieu<br>
@@ -60,7 +60,7 @@ Le pouvoir de Dieu<br>
 [L'alliance v1 - Extrait - Evangile YHVH.pdf](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Evangile%20YHVH.pdf)
 
 ## Les séfirot
-<sub><sup>*A paraitre*</sup></sub>
+<sup>*A paraitre*</sup>
 
 **Les dix dynamiques de la sortie de Mitsraïm**<br>
 La libération des illusions et des mensonges
