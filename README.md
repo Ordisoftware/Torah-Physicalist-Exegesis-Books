@@ -20,7 +20,7 @@
 [asherhaimhalevi@sites.google.com.zip](https://github.com/Ordisoftware/Torah-Physicalist-Exegesis-Books/raw/master/asherhaimhalevi%40sites.google.com.zip)
 
 ## Théorie de santé-aide-justice
-*Rédigé en 2015 - Ajout de la section sur la neuroatypicité en 2019*</sup>
+<sup>*Rédigé en 2015 - Ajout de la section sur la neuroatypicité en 2019*</sup>
 
 **Étude du système d'information "Protection de la vie humaine"**<br>
 
