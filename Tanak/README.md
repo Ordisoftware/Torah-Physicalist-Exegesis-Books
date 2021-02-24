@@ -1,4 +1,4 @@
-# Traduction du Tanak en français
+# Translation of Tanak in French<br>Traduction du Tanak en français
 
 >Licensed under the terms of the [Creative Commons BY-SA 4.0 Int](LICENSE)<br/>
 >[Project Website](https://sites.google.com/site/asherhaimhalevi)<br/>
@@ -8,6 +8,8 @@
 
 **Version de travail**
 
-Une centaine de versets ont été traduits à la date du 23 novembre 2020.
+Une centaine de versets ont été traduits à la date du 24 février 2020.
 
 *Les versets du livre Le problème religieux v1 et v2 ne sont pas encore importés.*
+
+[Hebrew-Words.sqlite](Hebrew-Words.sqlite)
