@@ -1,7 +1,7 @@
 # Torah Physicalist Exegesis Books<br>Livres d'Exégèse Physicaliste de la Torah
 
 >Licensed under the terms of the [Creative Commons BY-NC-ND 4.0 Int](LICENSE)<br/>
->[Project Website](https://www.ordisoftware.com/asherhaimhalevi/)<br/>
+>[Project Website](https://asherhaimhalevi.ordisoftware.com/)<br/>
 >[Twitter](https://twitter.com/ordisoftware)<br/>
 
 ![English](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_great_britain.png)&nbsp;&nbsp;French libre books about a physicalist exegesis of the Torah and the Hebrew Bible, and a little about the Sutras, the Gospel and the Quran.
