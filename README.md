@@ -10,15 +10,9 @@
 
 ## Sommaire
 
-1. [Traductions](#Traductions)
-2. [Ouvrages](#Ouvrages)
+1. [Ouvrages](#Ouvrages)
+2. [Traductions](#Traductions)
 3. [Archives](#Archives)
-
-## Traductions
-
-Le décodage des versets du Tanak à l'aide de dictionnaires, d'enseignements des Rabbins et de données scientifiques officielles sont le fondement des livres.
-
-[Base de données SQLite](Tanak) pour [Hebrew Words](https://github.com/Ordisoftware/Hebrew-Words)<br>
 
 ## Ouvrages
 
@@ -70,6 +64,12 @@ La libération des illusions et des mensonges
 
 [PNG Les séfirot version 1 - Extrait - DAAT](Les%20séfirot%20I/Les%20séfirot%20v1%20-%20Extrait%20-%20DAAT.png)
 
+## Traductions
+
+Le décodage des versets du Tanak à l'aide de dictionnaires, d'enseignements des Rabbins et de données scientifiques officielles sont le fondement des livres.
+
+[Base de données SQLite](Tanak) pour [Hebrew Words](https://github.com/Ordisoftware/Hebrew-Words)<br>
+
 ## Archives
 
 *Lanceur d'alerte partisan de la nationalisation du système de santé-aide-justice prévu aux articles  9 à 11 du Préambule de la Constitution française et 25 de la Déclaration Universelle des Droits des Humains*
@@ -83,7 +83,7 @@ La libération des illusions et des mensonges
 
 #### Première version Google Sites Classic (obsolete)
 
-[ZIP WebSite Archive AsherHaimHaLevi 2021.02.17](WebSite%20Archive%20AsherHaimHaLevi.zip)
+[ZIP Asherhaimhalevi.googlesites.com 2021.03.29](Asherhaimhalevi.googlesites.com.zip)
 
 #### Deuxième version WordPress (actuelle)
 
