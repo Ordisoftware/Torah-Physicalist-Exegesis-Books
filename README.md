@@ -83,8 +83,10 @@ Le décodage des versets du Tanak à l'aide de dictionnaires, d'enseignements de
 
 #### Première version Google Sites Classic (obsolete)
 
-[ZIP Website AsherHaimHaLevi GoogleSites 2021.03.29](Website%20AsherHaimHaLevi%20GoogleSites.zip)
+[ZIP Website GoogleSites 2021.03.29](Website%20GoogleSites.zip)
 
 #### Deuxième version WordPress (actuelle)
+
+[ZIP Website WordPress 2021.04.03](Website%20GoogleSites.zip)
 
 [ordisoftware.github.io/Torah-Physicalist-Exegesis-Books](https://ordisoftware.github.io/Torah-Physicalist-Exegesis-Books)
