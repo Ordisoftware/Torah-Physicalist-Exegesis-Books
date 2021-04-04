@@ -52,8 +52,8 @@ Le pouvoir de Dieu<br>
 
 <sub>*A paraitre*</sub>
 
-[PDF L'alliance version 1 - Extrait - Règle 31 de Salomon](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Règle%2031%20de%20Salomon.pdf)<br>
 [PDF L'alliance version 1 - Extrait - Evangile YHVH](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Evangile%20YHVH.pdf)
+[PDF L'alliance version 1 - Extrait - Règle 31 de Salomon](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Règle%2031%20de%20Salomon.pdf)<br>
 
 ### 4. Les séfirot
 
