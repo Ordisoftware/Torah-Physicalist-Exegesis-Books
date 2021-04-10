@@ -25,13 +25,13 @@ Les lettres du vivant et les cycles du temps
 <sub>*Première édition imprimée 2012*<br>
 *Deuxième édition audio ébauche 2019*</sub>
 
-[PDF Le problème religieux version 1](Le%20problème%20religieux%20I/Le%20problème%20religieux%20v1.pdf)<br>
+[[PDF] Le problème religieux version 1](Le%20problème%20religieux%20I/Le%20problème%20religieux%20v1.pdf)<br>
 
-[PDF Le problème religieux version 2 - Extrait - Le mental et la prière](Le%20problème%20religieux%20II/Le%20problème%20religieux%20v2%20-%20Extrait%20-%20Prière.pdf)<br>
+[[PDF] Le problème religieux version 2 - Extrait - Le mental et la prière](Le%20problème%20religieux%20II/Le%20problème%20religieux%20v2%20-%20Extrait%20-%20Prière.pdf)<br>
 
-[MP3 Le problème religieux version 2](Audio)<br>
+[[MP3] Le problème religieux version 2](Audio)<br>
 
-[YouTube Le problème religieux version 2](https://www.youtube.com/playlist?list=PLSn7yTHwEx-DL6u9qWpRtF1vEAEVxe1Hk)<br>
+[[YouTube] Le problème religieux version 2](https://www.youtube.com/playlist?list=PLSn7yTHwEx-DL6u9qWpRtF1vEAEVxe1Hk)<br>
 
 <sub>*La durée totale des exposés est de 19h32 pour 460 Mo en MP3 56k*</sub>
 
@@ -43,7 +43,7 @@ La formation du couple
 
 <sub>*Première édition imprimée 2019*</sub>
 
-[PDF L'alphabet hébreu version 1](L'alphabet%20hébreu%20I/L'alphabet%20hébreu%20v1.pdf)
+[[PDF] L'alphabet hébreu version 1](L'alphabet%20hébreu%20I/L'alphabet%20hébreu%20v1.pdf)
 
 ### 3. L'alliance
 
@@ -52,9 +52,9 @@ Le pouvoir de Dieu<br>
 
 <sub>*A paraitre*</sub>
 
-[PDF L'alliance version 1 - Extrait - L'évangile de YHVH](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Evangile%20YHVH.pdf)
+[[PDF] L'alliance version 1 - Extrait - L'évangile de YHVH](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Evangile%20YHVH.pdf)
 
-[PDF L'alliance version 1 - Extrait - La règle 31 de Salomon](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Règle%2031%20de%20Salomon.pdf)<br>
+[[PDF] L'alliance version 1 - Extrait - La règle 31 de Salomon](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Règle%2031%20de%20Salomon.pdf)<br>
 
 ### 4. Les séfirot
 
@@ -63,13 +63,13 @@ La libération des illusions et des mensonges
 
 <sub>*A paraitre*</sub>
 
-[PNG Les séfirot version 1 - Extrait - DAAT](Les%20séfirot%20I/Les%20séfirot%20v1%20-%20Extrait%20-%20DAAT.png)
+[[PNG] Les séfirot version 1 - Extrait - DAAT](Les%20séfirot%20I/Les%20séfirot%20v1%20-%20Extrait%20-%20DAAT.png)
 
 ## Traductions
 
 Le décodage des versets du Tanak à l'aide de dictionnaires, d'enseignements des Rabbins et de données scientifiques officielles sont le fondement des livres.
 
-[Base de données SQLite](Tanak) pour [Hebrew Words](https://github.com/Ordisoftware/Hebrew-Words)<br>
+[[SQLite] Base de données](Tanak) pour [Hebrew Words](https://github.com/Ordisoftware/Hebrew-Words)<br>
 
 ## Archives site web
 
@@ -80,14 +80,14 @@ Le décodage des versets du Tanak à l'aide de dictionnaires, d'enseignements de
 - Au sujet de l'auteur et témoignage en tant que victime d'un crime d'État France et Nations-Unies.
 - Sections descriptives relatives aux ouvrages.
 
-[PDF Théorie de santé-aide-justice](Théorie%20de%20santé-aide-justice.pdf)
+[[PDF] Théorie de santé-aide-justice](Théorie%20de%20santé-aide-justice.pdf)
 
 #### Première version Google Sites Classic (obsolete)
 
-[ZIP Website GoogleSites 2021.03.29](Website%20GoogleSites.zip)
+[[ZIP] Website GoogleSites 2021.03.29](Website%20GoogleSites.zip)
 
 #### Deuxième version WordPress (actuelle)
 
-[ZIP Website WordPress 2021.04.10](Website%20GoogleSites.zip)
+[[ZIP] Website WordPress 2021.04.10](Website%20GoogleSites.zip)
 
 [ordisoftware.github.io/Torah-Physicalist-Exegesis-Books](https://ordisoftware.github.io/Torah-Physicalist-Exegesis-Books)
