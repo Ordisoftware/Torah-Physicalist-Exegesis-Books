@@ -27,7 +27,7 @@ Les lettres du vivant et les cycles du temps
 
 [PDF Le problème religieux version 1](Le%20problème%20religieux%20I/Le%20problème%20religieux%20v1.pdf)<br>
 
-[PDF Le problème religieux version 2 - Extrait - Priere](Le%20problème%20religieux%20II/Le%20problème%20religieux%20v2%20-%20Extrait%20-%20Prière.pdf)<br>
+[PDF Le problème religieux version 2 - Extrait - Le mental et la prière](Le%20problème%20religieux%20II/Le%20problème%20religieux%20v2%20-%20Extrait%20-%20Prière.pdf)<br>
 
 [MP3 Le problème religieux version 2](Audio)<br>
 
@@ -52,8 +52,9 @@ Le pouvoir de Dieu<br>
 
 <sub>*A paraitre*</sub>
 
-[PDF L'alliance version 1 - Extrait - Evangile YHVH](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Evangile%20YHVH.pdf)
-[PDF L'alliance version 1 - Extrait - Règle 31 de Salomon](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Règle%2031%20de%20Salomon.pdf)<br>
+[PDF L'alliance version 1 - Extrait - L'évangile de YHVH](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Evangile%20YHVH.pdf)
+
+[PDF L'alliance version 1 - Extrait - La règle 31 de Salomon](L'alliance%20I/L'alliance%20v1%20-%20Extrait%20-%20Règle%2031%20de%20Salomon.pdf)<br>
 
 ### 4. Les séfirot
 
