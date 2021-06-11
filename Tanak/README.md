@@ -8,7 +8,7 @@
 
 **Version de travail**
 
-Une centaine de versets ont été traduits à la date du 24 février 2021.
+Une centaine de versets ont été traduits à la date du 11 juin 2021.
 
 *Les versets du livre Le problème religieux v1 et v2 ne sont pas encore importés.*
 
