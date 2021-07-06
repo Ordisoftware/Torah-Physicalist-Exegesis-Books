@@ -12,7 +12,7 @@
 
 1. [Ouvrages](#Ouvrages)
 2. [Traductions](#Traductions)
-3. [Archives site web](#Archives)
+3. [Site web](#Archives)
 
 ## Ouvrages
 
@@ -23,7 +23,8 @@ Structures et fonctions de l'univers et de la vie<br>
 Les lettres du vivant et les cycles du temps
 
 <sub>*Première édition imprimée 2012*<br>
-*Deuxième édition audio ébauche 2019*</sub>
+*Deuxième édition audio ébauche 2019*<br>
+*La durée totale des exposés est de 19h32 pour 460 Mo en MP3 56k*</sub>
 
 [[PDF] Le problème religieux version 1](Le%20problème%20religieux%20I/Le%20problème%20religieux%20v1.pdf)<br>
 
@@ -32,8 +33,6 @@ Les lettres du vivant et les cycles du temps
 [[MP3] Le problème religieux version 2](Audio)<br>
 
 [[YouTube] Le problème religieux version 2](https://www.youtube.com/playlist?list=PLSn7yTHwEx-DL6u9qWpRtF1vEAEVxe1Hk)<br>
-
-<sub>*La durée totale des exposés est de 19h32 pour 460 Mo en MP3 56k*</sub>
 
 ### 2. L'alphabet hébreu
 
@@ -73,11 +72,11 @@ Le décodage des versets du Tanak à l'aide de dictionnaires, d'enseignements de
 
 ## Archives site web
 
-*Lanceur d'alerte partisan de la nationalisation du système de santé-aide-justice prévu aux articles  9 à 11 du Préambule de la Constitution française et 25 de la Déclaration Universelle des Droits des Humains*
+*L'auteur est lanceur d'alerte partisan de la nationalisation du système de santé-aide-justice prévu aux articles 9 à 11 du Préambule de la Constitution française et 25 de la Déclaration Universelle des Droits des Humains :*
 
 - Proposition logique avec extrait de lois humaines et un annuaire administratif non exhaustif.
 - Théorie de santé-aide-justice ou étude du système d'information "Protection de la vie humaine".
-- Au sujet de l'auteur et témoignage en tant que victime d'un crime d'État France et Nations-Unies.
+- Biographie et témoignage en tant que victime d'un crime d'État France et Nations-Unies.
 - Sections descriptives relatives aux ouvrages.
 
 [[PDF] Théorie de santé-aide-justice](Théorie%20de%20santé-aide-justice.pdf)
@@ -88,6 +87,6 @@ Le décodage des versets du Tanak à l'aide de dictionnaires, d'enseignements de
 
 #### Deuxième version WordPress (actuel)
 
-[[ZIP] Website WordPress 2021.06.11](Website%20GoogleSites.zip)
+[[ZIP] Website WordPress 2021.07.06](Website%20GoogleSites.zip)
 
 [ordisoftware.github.io/Torah-Physicalist-Exegesis-Books](https://ordisoftware.github.io/Torah-Physicalist-Exegesis-Books)
